@@ -1,0 +1,13 @@
+-----  HEPSIBURADA  -----
+* First of all run the search query for items..
+* Find the href links matches with the item name.
+* Then parse comments from found href links.
+* Also you can fetch data from tables too.
+
+
+-----  GITTIGIDIYOR  -----
+* First of all run the search query for items.
+* Find the href links matches with the item name.
+* Then find the comments link for the item.
+* Parse that comment links html.
+* Fetch comment information.
